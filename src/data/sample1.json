@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "img":"https://www.aljazeera.com/wp-content/uploads/2022/10/000_32LY6Z7.jpg?resize=770%2C513&quality=80",
+        "detail":"India Won by 8 wickets!"
+    },
+    {
+        "id":2,
+        "img":"https://img.jagranjosh.com/images/2024/May/2452024/SRH-vs-RR-Who-Won.webp",
+        "detail":"Qualifer 2 today! Who will keep the dream alive?"
+    },
+    {
+        "id":3,
+        "img":"https://cdn.zeebiz.com/sites/default/files/2024/03/22/285175-news-89.jpg",
+        "detail":"KKR Into the finals!"
+    },
+    {
+        "id":4,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhWtFlPZUSI-Z4IBX3xR8qfUuOZylmQCqB8w&s",
+        "detail":"2024 ICC Men's T20 World Cup"
+    },
+    {
+        "id":5,
+        "img":"https://i.ytimg.com/vi/1NnPM6ofqMQ/maxresdefault.jpg",
+        "detail":"The 9th edition of T20 World Cup will be played in West Indies and America, next year. T20 World Cup 2024 tournament will start on June 4 and the final will be played on June 20. In this video find out the complete details about the tournament."
+    },
+    {
+        "id":6,
+        "img":"https://mir-s3-cdn-cf.behance.net/project_modules/fs/8b5c44117220041.607194b660be6.jpg",
+        "detail":"Thala for a reason or Thala for next season?"
+    },
+    {
+        "id":7,
+        "img":"https://fantasyarena.in/images/1709823605_images%20(1).jpeg",
+        "detail":"RCB in PlayOffs!"
+    }
+]
